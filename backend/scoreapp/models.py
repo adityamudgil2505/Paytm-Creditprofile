@@ -104,3 +104,4 @@ class masterData(db.Model, UserMixin):
     CODorNot = db.Column(db.Integer, nullable=False)
     EMIorNot = db.Column(db.Integer, nullable=False)
     RatioDvP = db.Column(db.Float, nullable=False)
+

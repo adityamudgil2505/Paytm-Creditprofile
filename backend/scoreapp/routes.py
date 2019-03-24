@@ -103,7 +103,7 @@ def runJob(category, totalRecord, recordList):
 			row.is_auto_billing = q.is_auto_billing
 			row.is_paytm_first = q.is_paytm_first
 
-
+	
 
 def recordCounter(category, startTime):
 	c = 0
@@ -133,6 +133,7 @@ def recordCounter(category, startTime):
 		for i in range(c):
 			t.append(temp[i].customer_id)
 	return c, t
+	
 @app.route("/logout")
 def logout():
 	logout_user()
