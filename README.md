@@ -1,7 +1,7 @@
 ### Hackfest 2019, IIT(ISM) Dhanbad
-# Using technology to create a credit profile of e-commerce customers.
+# Create a credit profile of e-commerce customers.
 ## Organisation 
-Paytm Problem Statement - 2
+Paytm Problem Statement
 ## Problem Statement Title
 Using technology to create a credit profile of e-commerce customers.
 ## Problem Description
@@ -23,10 +23,10 @@ Then based on that the system should give delivery benefits and EMI options to t
 4. Enjoy the application.
 
 ### PPT
-[Project PPT](https://github.com/adityamudgil2505/Brain-Image-Segmentation-using-ML/blob/master/Extra/Brain%20SIH.pdf)
+[Project PPT](https://github.com/adityamudgil2505/Paytm-Creditprofile/blob/master/Extra/Project%20PPT.pdf)
 
 ## GIFs
 Login Page
-![alt Login Page](https://github.com/adityamudgil2505/Brain-Image-Segmentation-using-ML/blob/master/Extra/Skull%20Striping.png)
+![alt Login Page](https://github.com/adityamudgil2505/Paytm-Creditprofile/blob/master/Extra/login.gif)
 Inside App
-![alt Inside App](https://github.com/adityamudgil2505/Brain-Image-Segmentation-using-ML/blob/master/Extra/Results.png)
+![alt Inside App](https://github.com/adityamudgil2505/Paytm-Creditprofile/blob/master/Extra/inside.gif)
